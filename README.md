@@ -8,10 +8,10 @@ Hi i'm Jacob, i'm just some ordinary programmer.
 
 
 <a href="https://github.com/JacobRealDev/jacobrealdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobrealdev&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobrealdev&theme=gruvbox" />
 </a>
 <a href="https://github.com/JacobRealDev/jacobrealdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobrealdev&show_icons=true&line_height=27&count_private=true&theme=vue-dark" alt="Jacob's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobrealdev&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Jacob's GitHub Stats" />
 </a>
 
 
