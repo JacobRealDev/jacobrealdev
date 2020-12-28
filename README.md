@@ -3,7 +3,7 @@
 Hi i'm Jacob, i'm just some ordinary programmer.
 
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning ExpressJS
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: he / him
 
 
