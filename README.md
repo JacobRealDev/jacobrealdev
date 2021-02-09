@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jacob 🌀</h1>
 
-<h3 align="center">Hi i'm Jacob, i'm a teenager who fell in love with programming.</h3>
+<h3 align="center">Hi i'm Jacob, i'm a self-taught programmer.</h3>
 
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning web development
